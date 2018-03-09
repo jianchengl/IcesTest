@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        //devpush修改
+        //远程仓库修改了evpush
     }
 
     @Override
