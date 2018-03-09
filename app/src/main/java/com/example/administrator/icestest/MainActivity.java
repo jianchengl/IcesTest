@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        //devpush修改
+        //合并分支
     }
 
     @Override
