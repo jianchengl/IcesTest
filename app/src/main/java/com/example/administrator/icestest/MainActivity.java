@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        //合并分支
+        //远程仓库修改了evpush
     }
 
     @Override
